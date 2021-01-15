@@ -1,0 +1,31 @@
+##Bước 1: Khởi tạo git
+
+git unit
+
+git status
+
+git add
+
+git commit 
+git commit -m
+git commit -m "thêm mới index.js"
+
+git config --global user.email "uefa.euro30@gmail.com"
+git config --global user.name "Do Nam Khanh"
+
+git add . 
+git log
+
+$ git remote add origin https://github.com/namkhanh308/hoc-git.git
+$ git remote -v
+
+git push origin master 
+
+git clone https://github.com/namkhanh308/hoc-git.git
+
+git pull // 
+git pull origin master // 
+
+git branch
+git branch develop
+git checkout develop
